@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <dimen name="normal_padding">16dp</dimen>
+    <dimen name="padding_top">12dp</dimen>
+
+    <dimen name="margin_days">4dp</dimen>
+    <dimen name="margin_splash_image">177dp</dimen>
+
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="normalPadding">20dp</dimen>
+    <dimen name="card_margin">14dp</dimen>
+
+
+    <dimen name="body_text_size">19sp</dimen>
+    <dimen name="secondary_text_size">14sp</dimen>
+    <dimen name="drawable_padding">8dp</dimen>
+</resources>

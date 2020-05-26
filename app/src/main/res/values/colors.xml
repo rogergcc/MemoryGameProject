@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="card_day">#88E0E0E0</color>
+
+    <!--    Moon Gradient-->
+    <!--    https://uigradients.com/-->
+    <color name="g_start_color">#0F2027</color>
+    <color name="g_center_color">#203A43</color>
+    <color name="g_end_color">#2C5364</color>
+    <color name="grayshape">#f6f7fb</color>
+    <color name="light_medium_gray">#f3f3f3</color>
+    <color name="grayvar">#f3f3f3</color>
+
+</resources>
